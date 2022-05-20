@@ -1,9 +1,9 @@
-Telegram: @Gilliam6
-Facebook: https://www.facebook.com/profile.php?id=100010520297747
-Open to work!
+Telegram: @Gilliam6 <br>
+Facebook: https://www.facebook.com/profile.php?id=100010520297747 <br>
+Open to work! <br>
 
-Education in Ecole 42 association:
-[![rstephan's 42 stats](https://badge42.vercel.app/api/v2/cl3e9ush2022109l7r1a5rld5/stats?cursusId=21&coalitionId=89)](https://github.com/JaeSeoKim/badge42)
+Education in Ecole 42 association:<br>
+[![rstephan's 42 stats](https://badge42.vercel.app/api/v2/cl3e9ush2022109l7r1a5rld5/stats?cursusId=21&coalitionId=89)](https://github.com/JaeSeoKim/badge42)<br>
 
 ![rstephan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aGilliam6&show_icons=true&theme=radical)
 
