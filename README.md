@@ -3,7 +3,7 @@ Ecole 42 association stats:<br>
 
 <br>Telegram: @Gilliam6 <br>
 Facebook: https://www.facebook.com/profile.php?id=100010520297747 <br>
-Open to work! <br>
+
 <!---
 Gilliam6/Gilliam6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
